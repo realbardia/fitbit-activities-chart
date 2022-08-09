@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/document-export.png</file>
+        <file>icons/document-import.png</file>
+    </qresource>
+</RCC>
